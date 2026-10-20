@@ -1,0 +1,6 @@
+{
+  "name": "SHERO Women's Forum Business Directory",
+  "description": "Discover and support women-owned businesses in the SHERO Women's Forum directory. Featuring member business listings, conference highlights, and direct contact details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

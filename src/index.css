@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Montserrat', sans-serif;
+  --font-body: 'Plus Jakarta Sans', sans-serif;
+  
+  --color-shero-teal: #2A7F86;
+  --color-shero-teal-dark: #1E6066;
+  --color-shero-teal-light: #43A4AD;
+  
+  --color-shero-dark: #12071D;
+  --color-shero-card: #1D0D2E;
+  --color-shero-card-hover: #26123D;
+  --color-shero-border: rgba(255, 255, 255, 0.08);
+  
+  --color-shero-magenta: #E0287D;
+  --color-shero-magenta-light: #FF458F;
+  --color-shero-gold: #DFB15B;
+  --color-shero-gold-light: #F4CF74;
+}
+
+body {
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
